@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zoo>
+    <animal>
+        <common_name>Elephant</common_name>
+        <scientific_name>Elephantidae</scientific_name>
+        <description>Elephants are a family in the order Proboscidea in the class Mammalia. They were once classified along with other thick skinned animals in a now invalid order, Pachydermata. There are three living species: the African Bush Elephant, the African Forest Elephant (until recently known collectively as the African Elephant), and the Asian Elephant (also known as the Indian Elephant). Other species have become extinct since the last ice age, which ended about 10,000 years ago, the Mammoth being the most well-known of these.</description>
+        <images>
+            <image>elephant13.jpg</image>
+            <image>elephant22.jpg</image>
+            <image>elephant32.jpg</image>
+            <image>elephant42.jpg</image>
+        </images>
+    </animal>
+    <animal>
+        <common_name>Emu</common_name>
+        <scientific_name>Dromaius novaehollandiae</scientific_name>
+        <description>The Emu is the largest bird native to Australia and the only extant member of the genus Dromaius. It is also the second-largest extant bird in the world by height, after its ratite relative, the ostrich. The soft-feathered, brown, flightless birds reach up to 2 m (6.5 ft) in height. The Emu is common over most of mainland Australia, although it avoids heavily populated areas, dense forest and arid areas. Emus can travel great distances at a fast, economical trot and, if necessary, can sprint at 50 km/h (30 mph) for some distance at a time. They are opportunistically nomadic and may travel long distances to find food; they feed on a variety of plants and insects.</description>
+        <images>
+            <image>emu12.jpg</image>
+            <image>emu26.jpg</image>
+            <image>emu46.jpg</image>
+            <image>emu23.jpg</image>
+        </images>
+    </animal>
+    <animal>
+        <common_name>Lion</common_name>
+        <scientific_name>Panthera leo</scientific_name>
+        <description>The lion is a member of the family Felidae and one of four big cats in the genus Panthera. With exceptionally large males exceeding 250 kg (550 lb) in weight, it is the second-largest living cat after the tiger. Wild lions currently exist in sub-Saharan Africa and in Asia with a critically endangered remnant population in northwest India, having disappeared from North Africa, the Middle East, and western Asia in historic times. Until the late Pleistocene (about 10,000 years ago), the lion was the most widespread large land mammal beside humans. They were found in most of Africa, much of Eurasia from western Europe to India, and the Bering land bridge and, in the Americas, from the Yukon to Peru.</description>
+        <images>
+            <image>lion51.jpg</image>
+            <image>lion24.jpg</image>
+            <image>lion43.jpg</image>
+            <image>lion46.jpg</image>
+        </images>
+    </animal>
+    <animal>
+        <common_name>Orca</common_name>
+        <scientific_name>Orcinus orca</scientific_name>
+        <description>The Orca (Orcinus orca), also referred to as the killer whale, and less commonly as the blackfish or grampus, is a toothed whale belonging to the oceanic dolphin family, of which it is the largest member. Orcas are found in all oceans, from Arctic and Antarctic regions to tropical seas. Orcas have a diverse diet, although individual populations often specialize in particular types of prey. Some feed exclusively on fish, while others hunt marine mammals like pinnipeds, and even large whales. They have been known to attack baleen whale calves. Orcas are regarded as apex predators, lacking natural predators. Orcas are highly social; some populations are composed of matrilineal family groups which are the most stable of any animal species. Their sophisticated hunting techniques and vocal behaviors, which are often specific to a particular group and passed across generations, have been anthropomorphically described as manifestations of culture.</description>
+        <images>
+            <image>orca1.jpg</image>
+            <image>orca2.jpg</image>
+            <image>orca3.jpg</image>
+            <image>orca4.jpg</image>
+        </images>
+    </animal>
+    <animal>
+        <common_name>Panda</common_name>
+        <scientific_name>Ailuropoda melanoleuca</scientific_name>
+        <description>The Giant Panda is a mammal classified in the bear family, Ursidae, native to central-western and southwestern China. The panda was previously thought to be a member of the Procyonidae. It is easily recognized by its large, distinctive black patches around the eyes, over the ears, and across its round body. Though belonging to the order Carnivora, the panda has a diet which is 99% bamboo. Pandas may eat other foods such as honey, eggs, fish, yams, shrub leaves, oranges and bananas. Giant pandas live in a few mountain ranges in central China, in Sichuan, Shaanxi, and Gansu provinces. They once lived in lowland areas, but farming, forest clearing, and other development now restrict giant pandas to the mountains.</description>
+        <images>
+            <image>panda31.jpg</image>
+            <image>panda23.jpg</image>
+            <image>panda3.jpg</image>
+        </images>
+    </animal>
+    <animal>
+        <common_name>Tiger</common_name>
+        <scientific_name>Panthera tigris</scientific_name>
+        <description>The tiger is a mammal of the Felidae family, the largest of four "big cats" in the Panthera genus. Native to much of eastern and southern Asia, the tiger is an apex predator and an obligate carnivore. Reaching up to 4 metres (13 feet) in total length and weighing up to 300 kg (660 pounds), tigers are comparable in size to the biggest extinct felids. Aside from their great bulk and power, their most recognizable feature is the pattern of dark vertical stripes that overlays near-white to reddish-orange fur, with lighter underparts.</description>
+        <images>
+            <image>tiger18.jpg</image>
+            <image>tiger62.jpg</image>
+            <image>tiger33.jpg</image>
+            <image>tiger14.jpg</image>
+        </images>
+    </animal>
+        <animal>
+        <common_name>Toad</common_name>
+        <scientific_name>Bufonidae</scientific_name>
+        <description>Toad refers to a number of species of amphibians. A distinction is often made between frogs and toads by their appearance, prompted by the convergent adaptation among so-called toads to dry environments. For instance, toads often have leathery skin for better water retention, and a brown coloration for camouflage. Many so-called toads also burrow, which requires further adaptations.</description>
+        <images>
+            <image>toad11.jpg</image>
+            <image>toad72.jpg</image>
+            <image>toad34.jpg</image>
+            <image>toad94.jpg</image>
+        </images>
+    </animal>
+    <animal>
+        <common_name>Turtle</common_name>
+        <scientific_name>Chordata Sauropsida</scientific_name>
+        <description>Turtles are reptilians of the Order Testudines (all living turtles belong to the crown group Chelonia), most of whose body is shielded by a special bony or cartilaginous shell developed from their ribs. The Order Testudines includes both extant (living) and extinct species. The earliest known turtles date from 215 million years ago, making turtles one of the oldest reptile groups and a more ancient group than lizards and snakes. About 300 species are alive today, and some are highly endangered.</description>
+        <images>
+            <image>turtle1.jpg</image>
+            <image>turtle2.jpg</image>
+            <image>turtle63.jpg</image>
+            <image>turtle34.jpg</image>
+        </images>
+    </animal>
+    <animal>
+        <common_name>Zebra</common_name>
+        <scientific_name>Equus quagga</scientific_name>
+        <description>Zebras are odd-toed ungulates of the Equidae family native to eastern, southern and southwestern Africa. They are best known for their distinctive white and black stripes, which come in different patterns unique to each individual. They are generally social animals and can be seen in small harems to large herds.</description>
+        <images>
+            <image>zebra1.jpg</image>
+            <image>zebra9.jpg</image>
+            <image>zebra3.jpg</image>
+            <image>zebra4.jpg</image>
+        </images>
+    </animal>
+</zoo>
